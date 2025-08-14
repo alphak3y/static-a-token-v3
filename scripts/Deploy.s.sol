@@ -23,8 +23,8 @@ import {AaveV3BNB} from 'aave-address-book/AaveV3BNB.sol';
 import {AaveV3Scroll} from 'aave-address-book/AaveV3Scroll.sol';
 import {ITransparentProxyFactory} from 'solidity-utils/contracts/transparent-proxy/interfaces/ITransparentProxyFactory.sol';
 import {StaticATokenFactory} from '../src/StaticATokenFactory.sol';
-import {StaticATokenLM} from '../src/StaticATokenLM.sol';
 import {IRewardsController} from 'aave-v3-periphery/contracts/rewards/interfaces/IRewardsController.sol';
+import {StaticATokenLM} from '../src/StaticATokenLM.sol';
 
 library DeployATokenFactory {
   function _deploy(

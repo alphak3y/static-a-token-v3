@@ -1,4 +1,5 @@
 openzeppelin-contracts/=lib/openzeppelin-contracts/
+openzeppelin-contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/
 ds-test/=lib/aave-helpers/lib/forge-std/lib/ds-test/src/
 forge-std/=lib/aave-helpers/lib/forge-std/src/
 solidity-utils/=lib/aave-helpers/lib/solidity-utils/src/
